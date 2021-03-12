@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "임경희"
   avatar           : "/assets/images/monkey.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 컴퓨터교육 연구자"
+  bio              : "컴퓨터교육 방법론을 연구합니다.<br> 학습자들의 배움에 공헌하는 연구자가 되기 위해 꾸준히 공부하고 있습니다."
   location         : "대한민국, 서울"
   email            : "khleem68@gmail.com"
   links:
