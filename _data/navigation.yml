@@ -2,9 +2,9 @@
 main:
   - title: "Catogories"
     url: /categories/ # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "Tags"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
