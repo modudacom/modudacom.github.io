@@ -1,5 +1,5 @@
 ---
-title: "개념"
+title: "Posts by Category"
 layout: categories
 permalink: /categories/
 author_profile: true
