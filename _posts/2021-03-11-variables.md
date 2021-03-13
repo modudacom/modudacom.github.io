@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: 변수
+title: 변수 사용 방법
 categories: 변수
 toc: true
 toc_sticky: true
@@ -10,7 +10,7 @@ last_modified_at: 2021-03-12T08:06:00-05:00
 
 
 
-### 1. 변수에 여러 값 할당  
+### 1. 여러 변수에 동시에 다른 값 할당  
 ---
 ~~~
 num1=34
