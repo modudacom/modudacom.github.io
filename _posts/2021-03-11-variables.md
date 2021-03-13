@@ -2,7 +2,7 @@
 layout: posts
 title: 변수
 date: 2021-03-11 20:00:00
-categories: print
+categories: 변수
 ---
 
 
