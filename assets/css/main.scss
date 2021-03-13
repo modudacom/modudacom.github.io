@@ -8,3 +8,24 @@
 @import "minimal-mistakes"; // main partials
 //Font 변경
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+
+//Font Size
+html {
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
+
+  //Title Link Style - list title link remove underline
+.archive a {
+    color: inherit;
+    text-decoration: none;
+}
