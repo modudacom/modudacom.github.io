@@ -15,12 +15,12 @@
 minimal_mistakes_skin    :  "air" # "dark", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "코멘트 뱅크(Comment Bank)"
 title_separator          : "-"
 subtitle                 : "빅데이터와 인공지능을 위한 파이썬 학습" # site tagline that appears below site title in masthead
 name                     : "임경희"
-description              : "빅데이터와 인공지능을 위한 파이썬 학습"
+description              : "빅데이터와 인공지능을 위해 선수학습하는 파이썬 프로그래밍"
 url                      : "https://modudacom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "modudacom.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
