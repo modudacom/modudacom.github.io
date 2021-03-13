@@ -20,7 +20,7 @@ title                    : "코멘트 뱅크(Comment Bank)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "임경희"
-description              : "AI & Big data for Python"
+description              : "빅데이터와 인공지능을 위한 파이썬 학습"
 url                      : "https://modudacom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "modudacom.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -133,7 +133,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/modudacom"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -210,7 +210,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -276,7 +276,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: False
       comments: true
       share: true
       related: true
@@ -287,3 +287,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
