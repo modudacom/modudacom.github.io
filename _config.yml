@@ -266,17 +266,6 @@ compress_html:
   ignore:
     envs: development
 
-toc:
-  min_level: 3
-  max_level: 6
-  ordered_list: false
-  no_toc_section_class: no_toc_section
-  list_id: toc
-  list_class: section-nav
-  sublist_class: ''
-  item_class: toc-entry
-  item_prefix: toc-
-
 # Defaults
 defaults:
   # _posts
@@ -301,8 +290,3 @@ defaults:
       comments: false
       share: true
       related: false
-   # toc
-   - scope:
-      path: ""
-    values:
-      toc: true 
