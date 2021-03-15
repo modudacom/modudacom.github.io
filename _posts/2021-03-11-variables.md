@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: 변수 사용 방법
 categories: 변수
 toc: true
