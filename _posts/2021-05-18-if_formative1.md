@@ -26,11 +26,11 @@ int main(void)
    scanf("%d,%d,%d",&tunnul_1,&tunnul_2,&tunnul_3);
 
    if(tunnul_1<=170)
-     printf("충돌 %d",tunnul_1);
+     printf("충돌 %d", tunnul_1);
    else if(tunnul_2<=170)
-     printf("충돌 %d",tunnul_2);
+     printf("충돌 %d", tunnul_2);
    else if(tunnul_3<=170)
-     printf("충돌 %d",tunnul_3);
+     printf("충돌 %d", tunnul_3);
    else
      printf("무사 통과");
    return 0;
