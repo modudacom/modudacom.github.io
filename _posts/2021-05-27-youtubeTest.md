@@ -3,6 +3,6 @@ layout: single
 title: "유튜브 영상 삽입"
 ---
 
-연산자 강의
+유튜브 재미있는 영상
 
-{% include video id="lwp8rtxmQSQ" provider="youtube" %}
+{% include video id="-z6OdsiapDE" provider="youtube" %}
